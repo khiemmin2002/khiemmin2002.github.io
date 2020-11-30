@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file from main
+=======
+file from newbranch1
+>>>>>>> newbranch1
