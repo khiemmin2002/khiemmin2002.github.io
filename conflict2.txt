@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Kai Havertz
-=======
-Lionel Messi
->>>>>>> newbranch2
