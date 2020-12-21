@@ -1,0 +1,139 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1598px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 50px 968px 0 50px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 15px 0 60px 50px;
+}
+
+.u-section-1 .u-btn-1 {
+  font-weight: 400;
+  font-family: text-font;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-2 {
+  font-weight: 400;
+  font-family: text-font;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-3 {
+  font-weight: 400;
+  font-family: text-font;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-4 {
+  font-weight: 400;
+  font-family: text-font;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-5 {
+  font-weight: 400;
+  font-family: text-font;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-6 {
+  font-weight: 400;
+  font-family: text-font;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-7 {
+  font-weight: 400;
+  font-family: text-font;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-8 {
+  font-weight: 400;
+  font-family: text-font;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-9 {
+  font-weight: 400;
+  font-family: text-font;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-10 {
+  font-weight: 400;
+  font-family: text-font;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-11 {
+  font-weight: 400;
+  font-family: text-font;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-12 {
+  font-weight: 400;
+  font-family: text-font;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-13 {
+  font-weight: 400;
+  font-family: text-font;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-14 {
+  font-weight: 400;
+  font-family: text-font;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 818px;
+    margin-left: 41px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 41px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 598px;
+    margin-left: 31px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 31px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 418px;
+    margin-left: 23px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 23px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 218px;
+    margin-left: 14px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 14px;
+  }
+}

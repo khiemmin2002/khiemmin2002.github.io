@@ -543,7 +543,7 @@
   font-size: 4.5rem;
   font-weight: 700;
   line-height: 1;
-  margin: 90px 232px 60px 0;
+  margin: 90px 160px 60px 0;
 }
 
 @media (max-width: 1199px) {
@@ -552,7 +552,7 @@
   }
 
   .u-section-3 .u-text-1 {
-    margin-right: 32px;
+    margin-right: 0;
   }
 }
 
@@ -564,10 +564,6 @@
 
   .u-section-3 .u-sheet-1 {
     min-height: 426px;
-  }
-
-  .u-section-3 .u-text-1 {
-    margin-right: 0;
   }
 }
 
